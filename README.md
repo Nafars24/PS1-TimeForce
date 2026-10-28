@@ -1,4 +1,4 @@
-# Power Rangers Time Force — Indonesian Translation
+# Power Rangers Time Force — BAHASA INDONESIA
 
 Fan-made Indonesian translation project for **Power Rangers Time Force** on PlayStation 1.
 
