@@ -24,7 +24,16 @@ The patch rewrites the in-game text tables inside `BIGLUMP.BIN` in place. File s
 ## Screenshots
 
 
-| ![](docs/screenshots/01-id.png) | ![](docs/screenshots/02-id.png) |
+<table>
+  <tr>
+    <td>
+      <img src="docs/screenshots/01-id.png" width="400" alt="Screenshot 1">
+    </td>
+    <td>
+      <img src="docs/screenshots/02-id.png" width="400" alt="Screenshot 2">
+    </td>
+  </tr>
+</table>
 
 ## Status
 
