@@ -1,0 +1,612 @@
+idx,id,max_len,english,indonesia,len
+0,STR__GAME_OPTIONS__CONTROL_CONFIG_D_LC,23,Control Configuration 2,Konfigurasi Kontrol 2,21
+1,STR__PAUSE_BONUSES__PARTIME,14,Level Par Time,Target Waktu,12
+2,STR__CREDITS__JIM_GARDNER,11,Jim Gardner,Jim Gardner,11
+3,STR__PAUSE_BUTTONS__CANCEL,6,Cancel,Batal,5
+4,STR__LEVEL__TIME_FORCE,11,Time Force!,Time Force!,11
+5,STR__CREDITS__DEBORAH_ESTELLE_PHILIPS__YELLOW_RANGER,39,Deborah Estelle Philips - Yellow Ranger,Deborah Estelle Philips - Yellow Ranger,39
+6,STR__GAME_OPTIONS__PUNCH,5,Punch,Punch,5
+7,STR__CREDITS_KHALIL_ZAGHIAN,14,Khalil Zaghian,Khalil Zaghian,14
+8,STR__CREDITS__CONOR_NEILSON,13,Conor Neilson,Conor Neilson,13
+9,STR__CREDITS__JAMES_FLETCHER,14,James Fletcher,James Fletcher,14
+10,STR__LEVEL__VREX_MEGAZORD,9,VRex Zord,VRex Zord,9
+11,STR__PASSWORD_VALUES__STAGE2_0,2,S2,S2,2
+12,STR__CREDITS__MELISSA_ROTH,12,Melissa Roth,Melissa Roth,12
+13,STR__PASSWORD_VALUES__STAGE2_1,2,L2,L2,2
+14,STR__PASSWORD_VALUES__STAGE2_2,2,B2,B2,2
+15,STR__GAME_OPTIONS_MENU__FILE,4,LOAD,MUAT,4
+16,STR__GAME_OPTIONS__MOVE,4,Move,Move,4
+17,STR__MNAME__MB01,7,Brutius,Brutius,7
+18,STR__MNAME__MB02,9,Festulous,Festulous,9
+19,STR__PAUSE_MENU_QUIT__REALLY_QUIT,12,Really quit?,Keluar nih?,11
+20,STR__MNAME__MB03,8,Dorsalus,Dorsalus,8
+21,STR__MNAME__MB04,8,Gargarus,Gargarus,8
+22,STR__MNAME__MB05,7,Talonus,Talonus,7
+23,STR__TWO_PLAYER_MENU_OPTION__CHARACTER_UNAVAILABLE,12,Not Unlocked,Terkunci,8
+24,STR__MNAME__MB06,9,Hornotaur,Hornotaur,9
+25,STR__ALLARTEFACTS__FOUND,45,Excellent! All artifacts have been collected!,Mantap! Semua artefak udah terkumpul!,37
+26,STR__INGAME__CONTINUE %d,12,CONTINUE %d?,LANJUT %d?,10
+27,STR__CREDITS__TIM_ADAMS,9,Tim Adams,Tim Adams,9
+28,STR__GAME_OPTIONS__CONFIGURATION,13,CONFIGURATION,KONFIGURASI,11
+29,STR__CREDITS__VICKI_BALL,10,Vicki Ball,Vicki Ball,10
+30,STR__CREDITS__THQ_AND_THE_THQ_LOGO_ARE_,76,THQ and the THQ logo are trademarks and/or registered trademarks of THQ Inc.,THQ and the THQ logo are trademarks and/or registered trademarks of THQ Inc.,76
+31,STR__GAME_OPTIONS__VIBRATION_ON_1,14,Vibration 1 On,Getar 1 Nyala,13
+32,STR__GAME_OPTIONS__VIBRATION_ON_2,14,Vibration 2 On,Getar 2 Nyala,13
+33,STR__GAME_OPTIONS__GRAPPLE_THROW,15,Grapple & Throw,Banting Lawan,13
+34,STR__GAME_OPTIONS__PAUSE,5,Pause,Jeda,4
+35,STR__GAME_OPTIONS__SELECT,6,SELECT,SELECT,6
+36,STR__GAME_OPTIONS_MENU__ONE_PLAYER,15,ONE PLAYER GAME,MAIN SOLO,9
+37,STR__VOSCRIPT_0616,157,This move is the Ground Thump special. It can be used against your opponents to send a powerful tremor through the ground. It will also effect loose objects.,Ini jurus spesial Ground Thump. Bisa dipakai ke lawan buat bikin getaran dahsyat di tanah. Benda yg longgar juga kena.,118
+38,STR__VOSCRIPT_0617,32,"To use the Ground Thump special,","Utk pakai jurus Ground Thump,",29
+39,STR__VOSCRIPT_0618,80,". Whenever  you see a cracked object, you can use your Ground Thump to break it.",". Tiap lihat objek retak, hancurin pakai Ground Thump.",54
+40,STR__VOSCRIPT_0619,95,Well done! You can see the tremor that is sent out. Any opponent in this area will be affected.,Bagus! Kelihatan kan getarannya? Semua lawan di area ini ikut kena.,67
+41,STR__GAME_OPTIONS__CONTROL_CONFIG1,19,CONTROLLER CONFIG 1,KONFIG KONTROLER 1,18
+42,STR__GAME_OPTIONS__CONTROL_CONFIG2,19,CONTROLLER CONFIG 2,KONFIG KONTROLER 2,18
+43,STR__CREDITS__DAVID_WALSH,11,David Walsh,David Walsh,11
+44,STR__CREDITS__WITH_SPECIAL_THANKS_TO,9,Thanks to,Makasih,7
+45,STR__LEVEL__BLUE_MEGAZORD,14,Zord Mode Blue,Zord Biru,9
+46,STR__PASSWORD_VALUES__STAGE3_0,2,S3,S3,2
+47,STR__PASSWORD_VALUES__STAGE3_1,2,L3,L3,2
+48,STR__PASSWORD_VALUES__STAGE3_2,2,B3,B3,2
+49,STR__PAUSE_BONUSES__WINS %s,8,%s Wins!,%s Win!,7
+50,STR__VOSCRIPT_0700,19,press the L1 button,tekan tombol L1,15
+51,STR__VOSCRIPT_0620,42,Excellent! The rocks have been shattered. ,Mantap! Batunya udah hancur.,28
+52,STR__VOSCRIPT_0701,19,press the R2 button,tekan tombol R2,15
+53,STR__VOSCRIPT_0702,19,press the L2 button,tekan tombol L2,15
+54,STR__VOSCRIPT_0622,51,That's right Ranger! The rocks have been dislodged.,"Betul, Ranger! Batunya udah lepas.",34
+55,STR__VOSCRIPT_0703,18,press the } button,tekan tombol },14
+56,STR__VOSCRIPT_0623,151,"These are the energy recharge pads, which you may find in the time zones. These pads will restore some of the power you need to use your special moves.",Ini pad pengisi energi yg ada di zona waktu. Pad ini ngisi sebagian tenaga buat jurus spesialmu.,96
+57,STR__VOSCRIPT_0704,18,press the { button,tekan tombol {,14
+58,STR__PAUSE_MENU_OPTION__QUIT_GAME,9,Quit Game,Keluar,6
+59,STR__VOSCRIPT_0624,115,"There are two types of recharge pads. One has an infinite amount of power, the other can run out. Try this one out.","Ada 2 jenis pad pengisi. Satu energinya nggak habis, satunya bisa habis. Coba yg ini.",85
+60,STR__VOSCRIPT_0705,18,press the | button,tekan tombol |,14
+61,STR__GAME_OPTIONS_MENU__ARENAS_UNLOCKED,20,ARENAS UNLOCKED UPTO,ARENA TERBUKA SAMPAI,20
+62,STR__CREDITS__DANIEL_SOUTHWORTH__QUANTUM_RANGER,34,Daniel Southworth - Quantum Ranger,Daniel Southworth - Quantum Ranger,34
+63,STR__VOSCRIPT_0625,80,Standing on a recharge pad will gradually fill your power bar again. Try it out.,Berdiri di pad ini bakal ngisi power bar lagi pelan2. Coba aja.,63
+64,STR__VOSCRIPT_0706,18,press the ~ button,tekan tombol ~,14
+65,STR__PASSWORD_VALUES__CONTINUES_0,1,0,0,1
+66,STR__VOSCRIPT_0707,36,press the Circle button or X button.,tekan tombol Circle atau X.,27
+67,STR__VOSCRIPT_0626,97,That's right! This one is an infinite charger. You can keep using this one to restore your power.,Betul! Ini pengisi tanpa batas. Pakai terus buat balikin tenaga.,64
+68,STR__CREDITS__DAVE_OWENS_LSR,41,Dave Owens and the Lightspeed Rescue team,Dave Owens and the Lightspeed Rescue team,41
+69,STR__VOSCRIPT_0708,25,pressing the START button,menekan tombol START,20
+70,STR__VOSCRIPT_0627,52,"Great! This one is a red charger, which can run out.","Mantap! Ini pengisi merah, bisa habis.",38
+71,STR__VOSCRIPT_0709,26,pressing the SELECT button,menekan tombol SELECT,21
+72,STR__PASSWORD_VALUES__CONTINUES_5,1,5,5,1
+73,STR__MEMORY_CARD__SAVEINGPLEASEWAIT,62,Saving...\n\nDo not remove the MEMORY CARD in MEMORY CARD slot 1,Menyimpan...\n\nJangan cabut MEMORY CARD di slot MEMORY CARD 1,60
+74,STR__PASSWORD_VALUES__CONTINUES_9,1,9,9,1
+75,STR__PAUSE_MENU_MOVE__JUMP_1,4,Jump,Jump,4
+76,STR__GAME_OPTIONS__CHOOSE_RANGER_1,18,CHOOSE CHARACTER 1,PILIH KARAKTER 1,16
+77,STR__GAME_OPTIONS__CHOOSE_RANGER_2,18,CHOOSE CHARACTER 2,PILIH KARAKTER 2,16
+78,STR__CREDITS__MIKE_TOMLINSON,14,Mike Tomlinson,Mike Tomlinson,14
+79,STR__CREDITS__BRIANNE_SIDDALL__CIRCUIT,25,Brianne Siddall - Circuit,Brianne Siddall - Circuit,25
+80,STR__CREDITS__LEE_SKINNER,11,Lee Skinner,Lee Skinner,11
+81,STR__BACK_END__GAMEOVER,9,GAME OVER,GAME OVER,9
+82,STR__CREDITS__TREENA_SEYMOUR,14,Treena Seymour,Treena Seymour,14
+83,STR__CREDITS__KARL_JEFFERY,12,Karl Jeffery,Karl Jeffery,12
+84,STR__VOSCRIPT_0710,22,pressing the R1 button,menekan tombol R1,17
+85,STR__VOSCRIPT_0630,98,Around the time zones you may find switches or levers. These will open doors and activate objects.,Di zona waktu ada saklar atau tuas. Bisa buka pintu & aktifin benda.,68
+86,STR__VOSCRIPT_0711,22,pressing the L1 button,menekan tombol L1,17
+87,STR__VOSCRIPT_0631,94,Levers have many functions. Try activating the lever near the clock by standing next to it and,"Tuas punya macam2 fungsi. Coba aktifin tuas dekat jam, berdiri di sebelahnya dan",80
+88,STR__VOSCRIPT_0712,22,pressing the R2 button,menekan tombol R2,17
+89,STR__GAME_OPTIONS_MENU__OPTIONS,7,OPTIONS,OPSI,4
+90,STR__VOSCRIPT_0632,74,"Well done, Ranger. Keep your eyes open for levers as you explore the past.","Bagus, Ranger. Awasi terus tuas selama jelajah masa lalu.",57
+91,STR__VOSCRIPT_0713,22,pressing the L2 button,menekan tombol L2,17
+92,STR__VOSCRIPT_0633,57,"Walk up to the lever, stand facing it, and activate it by","Dekati tuas, hadap ke tuas, terus aktifin dgn",45
+93,STR__VOSCRIPT_0714,21,pressing the } button,menekan tombol },16
+94,STR__CREDITS__GRAHAM_AND_CHRIS,16,Graham and Chris,Graham and Chris,16
+95,STR__VOSCRIPT_0715,21,pressing the { button,menekan tombol {,16
+96,STR__VOSCRIPT_0716,21,pressing the | button,menekan tombol |,16
+97,STR__VOSCRIPT_0717,21,pressing the ~ button,menekan tombol ~,16
+98,STR__VOSCRIPT_0637,104,Here we shall learn to grapple & throw your opponent. This is a skill which will help you in your tasks.,Sekarang belajar banting lawan. Skill ini bakal ngebantu misimu.,64
+99,STR__VOSCRIPT_0638,51,"To grapple & throw the Cyclobot, walk up to him and","Utk banting Cyclobot, dekati dia lalu",37
+100,STR__VOSCRIPT_0719,33,press and hold the SELECT button.,tekan & tahan tombol SELECT.,28
+101,STR__VOSCRIPT_0639,109,"That's it, Ranger, now you can turn in any direction using the directional button while holding the Cyclobot.","Mantap, Ranger! Sekarang kamu bisa muter arah pakai tombol arah sambil megang Cyclobot.",87
+102,STR__QUANTUM,7,QUANTUM,QUANTUM,7
+103,STR__GAME_OPTIONS__GROUNDORELECTRICTHUMP,24,Ground or Electric Thump,Ground or Electric Thump,24
+104,STR__CREDITS__NEIL_KAPLAN__GLUTO,19,Neil Kaplan - Gluto,Neil Kaplan - Gluto,19
+105,STR__MEMORY_CARD__FORMATTINGERROR,13,Format Error!,Format Error!,13
+106,STR__PASSWORD_VALUES__STAGE4_0,2,S4,S4,2
+107,STR__PASSWORD_VALUES__STAGE4_1,2,L4,L4,2
+108,STR__TWO_PLAYER_MENU_OPTION__ROUND_TIMES,11,Round Times,Waktu Ronde,11
+109,STR__PASSWORD_VALUES__STAGE4_2,2,B4,B4,2
+110,STR__CREDITS__OLIVER_ROBERTS,14,Oliver Roberts,Oliver Roberts,14
+111,STR__VOSCRIPT_0720,32,press and hold the START button.,tekan & tahan tombol START.,27
+112,STR__VOSCRIPT_0640,41,"When you are ready to throw the Cyclobot,","Kalau siap lempar Cyclobotnya,",30
+113,STR__VOSCRIPT_0721,29,press and hold the R1 button.,tekan & tahan tombol R1.,24
+114,STR__VOSCRIPT_0641,1,.,.,1
+115,STR__VOSCRIPT_0722,29,press and hold the L1 button.,tekan & tahan tombol L1.,24
+116,STR__VOSCRIPT_0642,139,This is quite a tricky maneuver to master! Stand next to the Cyclobot making sure you are facing him and remember to hold that button down.,"Ini jurus yg lumayan susah! Berdiri di sebelah Cyclobot, hadap dia, dan tahan terus tombolnya.",94
+117,STR__VOSCRIPT_0723,29,press and hold the R2 button.,tekan & tahan tombol R2.,24
+118,STR__VOSCRIPT_0643,34,"Excellent Ranger, look at him fly!","Keren Ranger, lihat dia terbang!",32
+119,STR__VOSCRIPT_0724,29,press and hold the L2 button.,tekan & tahan tombol L2.,24
+120,STR__VOSCRIPT_0644,80,Excellent! You'll be able to use this move on most of the enemies you encounter.,Mantap! Jurus ini bisa dipakai ke kebanyakan musuh yg kamu temui.,65
+121,STR__VOSCRIPT_0725,28,press and hold the } button.,tekan & tahan tombol }.,23
+122,STR__CREDITS__RAZ_PULURIAN,12,Raz Pulurian,Raz Pulurian,12
+123,STR__VOSCRIPT_0726,28,press and hold the { button.,tekan & tahan tombol {.,23
+124,STR__VOSCRIPT_0727,28,press and hold the | button.,tekan & tahan tombol |.,23
+125,STR__VOSCRIPT_0728,28,press and hold the ~ button.,tekan & tahan tombol ~.,23
+126,STR__VOSCRIPT_0729,25,Holding the SELECT button,Menahan tombol SELECT,21
+127,STR__GAME_OPTIONS_MENU__LOAD_GAME,9,Load Game,Muat Game,9
+128,STR__LEVEL_INTRO__0,20,Options and Training,Opsi dan Latihan,16
+129,STR__LEVEL_INTRO__1,24,The Path to Silver Hills,Jalan ke Silver Hills,21
+130,STR__LEVEL_INTRO__2,15,Hostage of Time,Sandera Waktu,13
+131,STR__LEVEL_INTRO__3,22,Peril on the High Seas,Bahaya di High Seas,19
+132,STR__LEVEL_INTRO__4,15,Midnight Castle,Kastil Malam,12
+133,STR__LEVEL_INTRO__5,16,The Dawn of Time,Fajar Waktu,11
+134,STR__CREDITS__TESTERS,7,Testers,Tester,6
+135,STR__LEVEL_INTRO__6,20,The Coliseum of Frax,Koloseum Frax,13
+136,STR__LEVEL_INTRO__7,18,The Final Mutation,Mutasi Akhir,12
+137,STR__GAME_OPTIONS_MENU__NEW_GAME,8,New Game,New Game,8
+138,STR__CREDITS__CREATIVE_SERVICES,17,Creative Services,Layanan Kreatif,15
+139,STR__VOSCRIPT_0730,24,Holding the START button,Menahan tombol START,20
+140,STR__VOSCRIPT_0731,21,Holding the R1 button,Menahan tombol R1,17
+141,STR__VOSCRIPT_0650,86,In the time zones you may find objects that can be pushed to aid you in your progress.,Di zona waktu ada objek yg bisa didorong buat bantu kamu maju.,62
+142,STR__VOSCRIPT_0732,21,Holding the L1 button,Menahan tombol L1,17
+143,STR__VOSCRIPT_0651,76,"Here is a special crate that can be pushed. To push it, stand next to it and",Ini peti spesial yg bisa didorong. Berdiri di sebelahnya dan,60
+144,STR__VOSCRIPT_0733,21,Holding the R2 button,Menahan tombol R2,17
+145,STR__VOSCRIPT_0652,178,"Easy, isn't it? Only special objects can be pushed, so keep an eye open for them! Usually, they can only be pushed once. Also, you may only be able to push them in one direction.","Gampang kan? Cuma objek spesial yg bisa didorong, jadi awasi terus! Biasanya cuma bisa sekali, dan cuma ke satu arah.",117
+146,STR__VOSCRIPT_0734,21,Holding the L2 button,Menahan tombol L2,17
+147,STR__VOSCRIPT_0653,41,"Walk up to the crate, stand facing it and","Dekati peti, berdiri menghadapnya dan",37
+148,STR__VOSCRIPT_0735,20,Holding the } button,Menahan tombol },16
+149,STR__VOSCRIPT_0654,137,"Some special objects can be destroyed. Sometimes they may be blocking your way, or even hiding a power-up bonus! Walk up to the crate and","Beberapa objek spesial bisa dihancurin. Kadang nutup jalan, atau nyembunyiin bonus power-up! Dekati peti dan",108
+150,STR__VOSCRIPT_0736,20,Holding the { button,Menahan tombol {,16
+151,STR__VOSCRIPT_0655,70,Learn to spot destructable objects as you progress through the levels.,Biasain lihat objek yg bisa dihancurin tiap level.,50
+152,STR__VOSCRIPT_0737,20,Holding the | button,Menahan tombol |,16
+153,STR__VOSCRIPT_0656,79,"Great going, Ranger. Look out for these destructable objects in the time zones.","Mantap, Ranger. Awasi objek yg bisa dihancurin di zona waktu.",61
+154,STR__VOSCRIPT_0738,20,Holding the ~ button,Menahan tombol ~,16
+155,STR__VOSCRIPT_0657,86,Let's learn the Tornado Kick. This is a powerful attack to use against your opponents.,Yuk belajar Tornado Kick. Serangan dahsyat buat lawan-lawanmu.,62
+156,STR__VOSCRIPT_0739,25,release the SELECT button,lepas tombol SELECT,19
+157,STR__VOSCRIPT_0658,21,"To start the Tornado,","Utk mulai Tornado,",18
+158,STR__CREDITS_SCOTT_FRAZIER,13,Scott Frazier,Scott Frazier,13
+159,STR__VOSCRIPT_0659,26,until the Tornado appears.,sampai Tornado muncul.,22
+160,STR__TRAINING_MENU_OPTION__RPT_OBJECTIVE,16,Repeat Objective,Ulangi Misi,11
+161,STR__PASSWORD_VALUES__STAGE5_0,2,S5,S5,2
+162,STR__CREDITS__LEAD_TESTER,11,Lead Tester,Lead Tester,11
+163,STR__PASSWORD_VALUES__STAGE5_1,2,L5,L5,2
+164,STR__PASSWORD_VALUES__STAGE5_2,2,B5,B5,2
+165,STR__CREDITS_WILSON_POLLOCK,14,Wilson Pollock,Wilson Pollock,14
+166,STR__CREDITS__KIRK_SOMDAL,12,Kirk Somdal ,Kirk Somdal ,12
+167,STR__MEMORY_CARD__NOCARDINSLOT,45,There is no MEMORY CARD in MEMORY CARD slot 1,Nggak ada MEMORY CARD di slot MEMORY CARD 1,43
+168,STR__GAME_OPTIONS__GROUNDTHUMP,12,Ground Thump,Ground Thump,12
+169,STR__VOSCRIPT_0740,24,release the START button,lepas tombol START,18
+170,STR__CREDITS__MICHAEL_RUBINELLI,17,Michael Rubinelli,Michael Rubinelli,17
+171,STR__GAME_OPTIONS_MENU__CODES,5,CODES,KODE,4
+172,STR__VOSCRIPT_0741,21,release the R1 button,lepas tombol R1,15
+173,STR__VOSCRIPT_0660,124,", use the directional button to move it through the Cyclobots. You will only have a few seconds before the Tornado vanishes.",", pakai tombol arah buat gerakin ke Cyclobot. Cuma ada beberapa detik sebelum Tornado hilang.",93
+174,STR__VOSCRIPT_0742,21,release the L1 button,lepas tombol L1,15
+175,STR__VOSCRIPT_0661,143,"Well done, Ranger! This attack is especially useful for defeating groups of enemies, although it is also effective on individual villains, too.","Mantap, Ranger! Serangan ini cocok buat kelompok musuh, tapi ampuh juga ke penjahat satuan.",91
+176,STR__VOSCRIPT_0743,21,release the R2 button,lepas tombol R2,15
+177,STR__VOSCRIPT_0662,177,You then have only a few seconds to direct it using the directional button. Aim to knock down all of the Cyclobots before you use up all of your energy and the effect wears off.,Kamu cuma punya beberapa detik buat ngarahin pakai tombol arah. Usahain jatuhin semua Cyclobot sebelum energi habis dan efeknya hilang.,135
+178,STR__VOSCRIPT_0744,21,release the L2 button,lepas tombol L2,15
+179,STR__VOSCRIPT_0663,80,Bad luck Ranger. Try the move again and see if you can get all of the Cyclobots.,"Sayang, Ranger. Coba lagi dan kenain semua Cyclobot.",52
+180,STR__CREDITS__VP_OF_PRODUCT_DEVELOPMENT,25,VP of Product Development,VP Pengembangan Produk,22
+181,STR__CREDITS__KEVIN_KLEINBERG__GREEN_RANGER,30,Kevin Kleinberg - Green Ranger,Kevin Kleinberg - Green Ranger,30
+182,STR__VOSCRIPT_0664,77,The Stun Blast is a powerful long range attack to use against your opponents.,Stun Blast itu serangan jarak jauh yg dahsyat buat lawan.,57
+183,STR__VOSCRIPT_0745,20,release the } button,lepas tombol },14
+184,STR__CREDITS__ROB_WILMOT,10,Rob Wilmot,Rob Wilmot,10
+185,STR__VOSCRIPT_0746,20,release the { button,lepas tombol {,14
+186,STR__VOSCRIPT_0666,29,"To use the Stun Blast attack,","Utk pakai Stun Blast,",21
+187,STR__VOSCRIPT_0747,20,release the | button,lepas tombol |,14
+188,STR__VOSCRIPT_0667,55,You can aim the attack by using the directional button.,Kamu bisa ngarahin serangan pakai tombol arah.,46
+189,STR__VOSCRIPT_0748,20,release the ~ button,lepas tombol ~,14
+190,STR__VOSCRIPT_0668,97,The distance the attack is projected is controlled by the amount of time that the button is held.,Jarak tembak diatur dari berapa lama tombol ditahan.,52
+191,STR__VOSCRIPT_0749,28,releasing the SELECT button.,melepas tombol SELECT.,22
+192,STR__CREDITS_MATT_RESNIK,11,Matt Resnik,Matt Resnik,11
+193,STR__VOSCRIPT_0669,95,"Be careful, however, as your power bar will drain quickly when you use this attack. Try it out!","Hati2, power bar bakal cepat habis kalau pakai serangan ini. Coba aja!",70
+194,STR__CREDITS_BRADLEY_ZYBERT,14,Bradley Zybert,Bradley Zybert,14
+195,STR__GAME_OPTIONS__SPEECH_VOLUME,13,Speech Volume,Volume Suara,12
+196,STR__CREDITS___C__2001_THQ_INC_,17,(c) 2001 THQ Inc.,(c) 2001 THQ Inc.,17
+197,STR__GAME_OPTIONS_MENU__ONE_PLAYER_LC,15,One Player Game,Main Solo,9
+198,STR__PAUSE_BONUSES__TIME_BONUSES_COLLECTED,22,Time Bonuses Collected,Bonus Waktu Terkumpul,21
+199,STR__PAUSE_MENU_OPTION__RESUME,6,Resume,Lanjut,6
+200,STR__OFF,3,OFF,OFF,3
+201,STR__CREDITS__ROBIN_ANDERSON,14,Robin Anderson,Robin Anderson,14
+202,STR__GAME_OPTIONS__FIREBLAST,12,Fire Grenade,Fire Grenade,12
+203,STR__CREDITS__STUART_BAYLISS,14,Stuart Bayliss,Stuart Bayliss,14
+204,STR__VOSCRIPT_0750,27,releasing the START button.,melepas tombol START.,21
+205,STR__VOSCRIPT_0670,55,"When you have the correct aim, launch the Stun Blast by","Kalau bidikan udah pas, tembak Stun Blast dgn",45
+206,STR__VOSCRIPT_0751,24,releasing the R1 button.,melepas tombol R1.,18
+207,STR__VOSCRIPT_0671,150,"Excellent work, Ranger! This attack is useful for combating enemies out of your range and keeping a safe distance away from the treacherous criminals.","Kerja bagus, Ranger! Serangan ini pas buat musuh di luar jangkauan dan jaga jarak aman dari penjahat licik.",107
+208,STR__VOSCRIPT_0752,24,releasing the L1 button.,melepas tombol L1.,18
+209,STR__VOSCRIPT_0672,77,"That was close Ranger, try again and see if you can get all of the Cyclobots.","Dikit lagi, Ranger! Coba lagi dan kenain semua Cyclobot.",56
+210,STR__VOSCRIPT_0753,24,releasing the R2 button.,melepas tombol R2.,18
+211,STR__VOSCRIPT_0673,84,Now try a longer range throw. Try to hit the other Cyclobots from the same position.,Sekarang coba lemparan lebih jauh. Kenain Cyclobot lain dari posisi yg sama.,76
+212,STR__VOSCRIPT_0754,24,releasing the L2 button.,melepas tombol L2.,18
+213,STR__VOSCRIPT_0674,25,"Nearly Ranger, try again.","Hampir, Ranger. Ulangi.",23
+214,STR__VOSCRIPT_0755,23,releasing the } button.,melepas tombol }.,17
+215,STR__VOSCRIPT_0675,18,Great shot Ranger!,Tembakan mantap!,16
+216,STR__VOSCRIPT_0756,23,releasing the { button.,melepas tombol {.,17
+217,STR__VOSCRIPT_0676,75,You now have developed your Stun Blast attack into the powerful Fire Blast.,Stun Blast-mu sekarang berkembang jadi Fire Blast yg dahsyat.,61
+218,STR__VOSCRIPT_0757,23,releasing the | button.,melepas tombol |.,17
+219,STR__VOSCRIPT_0677,126,"This attack works exactly the same way as the Stun Blast, but, in addition to stunning enemies, it will create a ring of fire.","Cara pakainya sama persis dgn Stun Blast, tapi selain bikin musuh pingsan, juga bikin cincin api.",97
+220,STR__VOSCRIPT_0758,23,releasing the ~ button.,melepas tombol ~.,17
+221,STR__VOSCRIPT_0678,22,"To use the Fire Blast,","Utk pakai Fire Blast,",21
+222,STR__VOSCRIPT_0679,48,Use the directional button to aim your throw and,Pakai tombol arah buat ngarahin lemparan dan,44
+223,STR__CREDITS__ANGEL_SISSON,12,Angel Sisson,Angel Sisson,12
+224,STR__PASSWORD_VALUES__STAGE6_0,2,S6,S6,2
+225,STR__PASSWORD_VALUES__STAGE6_1,2,L6,L6,2
+226,STR__PASSWORD_VALUES__STAGE6_2,2,B6,B6,2
+227,STR__PAUSE_MENU_OPTION__EXIT_TRAINING,6,Resume,Lanjut,6
+228,STR__MEMORY_CARD__SAVESURETOQUIT,54,Are you sure you wish to exit the save game operation?,Yakin mau keluar dari proses simpan data?,41
+229,STR__CREDITS_RYAN_WINTERHOLLER,17,Ryan Winterholler,Ryan Winterholler,17
+230,STR__MEMORY_CARD__FORMATTINGOK,16,Format complete!,Format selesai!,15
+231,STR__CREDITS__THQ_CREDITS,11,THQ Credits,THQ Credits,11
+232,STR__VOSCRIPT_0680,99,. The distance the attack is projected is controlled by the amount of time that the button is held.,. Jarak tembak diatur dari berapa lama tombol ditahan.,54
+233,STR__VOSCRIPT_0681,95,"Be careful, however, as your power bar will drain quickly when you use this attack. Try it out!","Hati2, power bar bakal cepat habis kalau pakai serangan ini. Coba aja!",70
+234,STR__VOSCRIPT_0682,100,"Well done, Ranger! The Fire Blast inflicts much more damage upon your opponents than the Stun Blast.","Bagus, Ranger! Fire Blast bikin musuh lebih sakit dari Stun Blast.",66
+235,STR__GAME_OPTIONS__CONFIGURATION_LC,13,Configuration,Konfigurasi,11
+236,STR__VOSCRIPT_0683,26,"You have good aim, Ranger!","Bidikanmu bagus, Ranger!",24
+237,STR__CREDITS__MATT_SIMMONDS,13,Matt Simmonds,Matt Simmonds,13
+238,STR__VOSCRIPT_0684,77,"Nice try Ranger, have another go and see if you can get all of the Cyclobots.","Lumayan, Ranger. Coba lagi dan kenain semua Cyclobot.",53
+239,STR__VOSCRIPT_0685,46,The Fire Blast may also light certain objects.,Fire Blast juga bisa nyalain benda tertentu.,44
+240,STR__VOSCRIPT_0766,28,"Bad luck, Ranger, try again.","Sayang, Ranger, coba lagi.",26
+241,STR__PASSWORD_DESCRIPTION__CONTINUES,9,Continues,Lanjutan,8
+242,STR__VOSCRIPT_0686,46,Try and light the torches with the Fire Blast.,Coba nyalain obor pakai Fire Blast.,35
+243,STR__VOSCRIPT_0767,54,You need to make sure you are in the correct position.,Pastikan kamu ada di posisi yg tepat.,37
+244,STR__VOSCRIPT_0687,88,"Great job, Ranger! Some doors can be opened by lighting a series of torches in this way.","Mantap, Ranger! Beberapa pintu bisa dibuka dgn nyalain obor kayak gini.",71
+245,STR__VOSCRIPT_0688,28,"Bad luck, Ranger, try again.","Sayang, Ranger, coba lagi.",26
+246,STR__VOSCRIPT_0689,72,Your Ground Thump move has now developed into the mighty Electric Thump.,Ground Thump-mu udah jadi Electric Thump yg dahsyat.,52
+247,STR__PAUSE_MENU_TITLE__MISSION,7,MISSION,MISI,4
+248,STR__CREDITS__SCOTT_PAGEPAGTER,17,Scott Page-Pagter,Scott Page-Pagter,17
+249,STR__TRAINING_MENU_OPTION__EXIT_TRAINING,13,Exit Training,Stop Latihan,12
+250,STR__GAME_OPTIONS__ZORDSPECIALTWO,16,Special Move Two,Jurus Spesial 2,15
+251,STR__PAUSE_MENU_TITLE__OPTIONS,11,GAME PAUSED,GAME JEDA,9
+252,STR__GAME_OPTIONS__PLAYER_1,8,PLAYER 1,PEMAIN 1,8
+253,STR__DIGIT_GOTO_LEVEL,35,A new level awaits you - Good Luck!,Level baru menantimu - Semangat!,32
+254,STR__GAME_OPTIONS__PLAYER_2,8,PLAYER 2,PEMAIN 2,8
+255,STR__CREDITS__MELISSA_PROSSER,15,Melissa Prosser,Melissa Prosser,15
+256,STR__VOSCRIPT_0770,18,"Fantastic, Ranger!","Mantap, Ranger!",15
+257,STR__VOSCRIPT_0690,131,"The Electric Thump not only weakens your opponents, it also activates machinery in places where you see the Electric Charge symbol.","Electric Thump bukan cuma melemahkan musuh, tapi juga ngaktifin mesin di tempat yg ada simbol Electric Charge.",110
+258,STR__VOSCRIPT_0691,45,", just as you would perform the Ground Thump.",", sama kayak waktu pakai Ground Thump.",38
+259,STR__VOSCRIPT_0692,34,"To use the Electric Thump special,","Utk pakai Electric Thump,",25
+260,STR__VOSCRIPT_0773,61,"Great job, Ranger, now it's time to go to the next Time Zone.","Mantap, Ranger. Saatnya ke Zona Waktu berikutnya.",49
+261,STR__VOSCRIPT_0694,11,Try it out!,Coba aja!,9
+262,STR__CREDITS__DAZ_MOORE,9,Daz Moore,Daz Moore,9
+263,STR__VOSCRIPT_0777,17,or SELECT button.,atau SELECT.,12
+264,STR__VOSCRIPT_0697,22,press the START button,tekan tombol START,18
+265,STR__VOSCRIPT_0778,16,or START button.,atau START.,11
+266,STR__VOSCRIPT_0698,23,press the SELECT button,tekan tombol SELECT,19
+267,STR__VOSCRIPT_0779,13,or R1 button.,atau R1.,8
+268,STR__VOSCRIPT_0699,19,press the R1 button,tekan tombol R1,15
+269,STR__MEMORY_CARD__SAVERETRY,45,Save operation has not been completed! Retry?,Simpan gagal! Coba lagi?,24
+270,STR__CREDITS__LEIGH_BIRD,10,Leigh Bird,Leigh Bird,10
+271,STR__PAUSE_MENU_TITLE__DEBUG,5,DEBUG,DEBUG,5
+272,STR__PAUSE_BONUSES__TOTAL_TIME_IN_LEVEL,10,Level Time,Lama Level,10
+273,STR__CREDITS__JASON_GARWOOD,13,Jason Garwood,Jason Garwood,13
+274,STR__PASSWORD_VALUES__STAGE7_0,2,S7,S7,2
+275,STR__MNAME__M01,8,Cyclobot,Cyclobot,8
+276,STR__CREDITS__CREATIVE_DIRECTOR,17,Creative Director,Creative Director,17
+277,STR__PASSWORD_VALUES__STAGE7_1,2,L7,L7,2
+278,STR__MNAME__M02,6,Cowboy,Cowboy,6
+279,STR__PASSWORD_VALUES__STAGE7_2,2,B7,B7,2
+280,STR__MNAME__M03,6,Pirate,Pirate,6
+281,STR__MNAME__M04,6,Knight,Knight,6
+282,STR__CREDITS__CAROLINE_MILLER,15,Caroline Miller,Caroline Miller,15
+283,STR__MNAME__M05,7,Caveman,Caveman,7
+284,STR__MNAME__M06,9,Centurian,Centurian,9
+285,STR__MNAME__M07,8,Cyclobot,Cyclobot,8
+286,STR__CREDITS__EMILY_WRIGHT,12,Emily Wright,Emily Wright,12
+287,STR__PASSWORD_DESCRIPTION__INFHEALTH,15,Infinite Health,Darah Infinite,14
+288,STR__VOSCRIPT_0780,13,or L1 button.,atau L1.,8
+289,STR__VOSCRIPT_0781,13,or R2 button.,atau R2.,8
+290,STR__VOSCRIPT_0782,13,or L2 button.,atau L2.,8
+291,STR__VOSCRIPT_0783,12,or } button.,atau }.,7
+292,STR__VOSCRIPT_0784,12,or { button.,atau {.,7
+293,STR__CREDITS__GUESHKY,7,Gueshky,Gueshky,7
+294,STR__VOSCRIPT_0785,12,or | button.,atau |.,7
+295,STR__CREDITS__ADDITIONAL_VOICES,17,Additional Voices,Suara Tambahan,14
+296,STR__VOSCRIPT_0786,12,or ~ button.,atau ~.,7
+297,STR__CREDITS__PAUL_NAFTALIS,13,Paul Naftalis,Paul Naftalis,13
+298,STR__CREDITS__PETER_DILLE,11,Peter Dille,Peter Dille,11
+299,STR__TWO_PLAYER_MENU_OPTION__ARENA_SELECT,12,ARENA SELECT,PILIH ARENA,11
+300,STR__PAUSE_MENU_TITLE__END_OF_TRAINING,15,END OF TRAINING,LATIHAN SELESAI,15
+301,STR__CREDITS__PRODUCT_MANAGER,15,Product Manager,Manajer Produk,14
+302,STR__PASSWORD_VALUES__CONTINUES_99,2,99,99,2
+303,STR__PAUSE_MENU_OPTION__MISSION,7,Mission,Misi,4
+304,STR__CREDITS__KATE_SHELDON__NADIRA,21,Kate Sheldon - Nadira,Kate Sheldon - Nadira,21
+305,STR__CREDITS__QA_MANAGERS,10,QA Manager,Manajer QA,10
+306,STR__CREDITS__KEVIN_MARTIN,12,Kevin Martin,Kevin Martin,12
+307,STR__GAME_OPTIONS__SPEED,5,SPEED,SPEED,5
+308,STR__CREDITS__JAMES_BRACE,11,James Brace,James Brace,11
+309,STR__RED,3,RED,RED,3
+310,STR__YELLOW,6,YELLOW,YELLOW,6
+311,STR__PAUSE_MENU_TITLE__OBJECTIVES,10,OBJECTIVES,TUJUAN,6
+312,STR__CREDITS__JOSEPH_CAVALLA,14,Joseph Cavalla,Joseph Cavalla,14
+313,STR__DUMMY,3,???,???,3
+314,STR__CREDITS__JEANNIE_SNAITH,14,Jeannie Snaith,Jeannie Snaith,14
+315,STR__CREDITS__CHARACTER_ARTIST,16,Character Artist,Artis Karakter,14
+316,STR__GAME_OPTIONS__SCREEN_LC,6,Screen,Layar,5
+317,STR__PINK,4,PINK,PINK,4
+318,STR__NAME_ENTRY__TITLE,10,NAME ENTRY,ISI NAMA,8
+319,STR__GAME_OPTIONS__SOUND_LC,5,Sound,Suara,5
+320,STR__LEVEL__TWO_PLAYER,10,Two Player,Berdua,6
+321,STR__QUANTUMRANGER__UNLOCKED,35,The Quantum Ranger is now unlocked.,Quantum Ranger kini sudah terbuka.,34
+322,STR__CREDITS__THE_FAWCETT_INN,15,The Fawcett Inn,The Fawcett Inn,15
+323,STR__CREDITS__LEDA_CHANNER,12,Leda Channer,Leda Channer,12
+324,STR__GAME_OPTIONS__CHOOSE_RANGER,13,CHOOSE RANGER,PILIH RANGER,12
+325,STR__GAME_OPTIONS__SCREEN,6,SCREEN,LAYAR,5
+326,STR__CREDITS__KELVIN_LIEW,11,Kelvin Liew,Kelvin Liew,11
+327,STR__PAUSE_BONUSES__DRAW,5,Draw!,Seri!,5
+328,STR__YES_UC,3,YES,YA,2
+329,STR__TWO_PLAYER_MENU_OPTION__EXIT_TO_MAIN,12,EXIT TO MAIN,KE MENU AWAL,12
+330,STR__CREDITS__JONATHAN_TZACHOR,16,Jonathan Tzachor,Jonathan Tzachor,16
+331,STR__CREDITS__EDDIE_FRIERSON__FRAX,21,Eddie Frierson - Frax,Eddie Frierson - Frax,21
+332,STR__CREDITS__JIM_CALLIN,12,James Callin,James Callin,12
+333,STR__CREDITS__JAMES_ROWAN,11,James Rowan,James Rowan,11
+334,STR__ARTEFACT__FOUND,34,"Way to go, you found the artifact!","Mantap, artefaknya ketemu!",26
+335,STR__SAVE__DO_YOU_WANT_TO_SAVE,52,No save data found.\nWould you like to create a save?,Data save nggak ada.\nMau bikin save baru?,41
+336,STR__BLUE_RANGER,11,BLUE RANGER,BLUE RANGER,11
+337,STR__CREDITS__MANAGING_DIRECTOR,17,Managing Director,Direktur Utama,14
+338,STR__GAME_OPTIONS__STUNORFIREBLAST,20,Stun or Fire Grenade,Stun or Fire Grenade,20
+339,STR__CREDITS__VERNON_WELLS__RANSIK,21,Vernon Wells - Ransik,Vernon Wells - Ransik,21
+340,STR__CREDITS__LEAD_DESIGNER,13,Lead Designer,Kepala Desain,13
+341,STR__NO_UC,2,NO,NO,2
+342,STR__GAME_OPTIONS__BACK,4,BACK,BACK,4
+343,STR__PAUSE_MENU_TITLE__QUIT,4,QUIT,QUIT,4
+344,STR__PAUSE_MENU_MOVE__PUNCH_1,5,Punch,Punch,5
+345,STR__PAUSE_MENU_MOVE__KICK_1,4,Kick,Kick,4
+346,STR__CREDITS__PETRO_PIASECKYJ,15,Petro Piaseckyj,Petro Piaseckyj,15
+347,STR__PAUSE_BONUSES__TITLE,5,BONUS,BONUS,5
+348,STR___SAVENAME_ZORD__1,18,Silver Hills Arena,Arena Silver Hills,18
+349,STR___SAVENAME_ZORD__2,13,Hostage Arena,Arena Sandera,13
+350,STR___SAVENAME_ZORD__3,15,High Seas Arena,Arena High Seas,15
+351,STR___SAVENAME_ZORD__4,21,Midnight Castle Arena,Arena Kastil Malam,18
+352,STR___SAVENAME_ZORD__5,18,Dawn of Time Arena,Arena Fajar Waktu,17
+353,STR___SAVENAME_ZORD__6,18,The Coliseum Arena,Arena Koloseum,14
+354,STR___SAVENAME_ZORD__7,20,Final Mutation Arena,Arena Mutasi Akhir,18
+355,STR__CREDITS__ANDREAS_WESTIN,14,Andreas Westin,Andreas Westin,14
+356,STR__CREDITS__QA_TESTERS,10,QA Testers,QA Testers,10
+357,STR__BLUE,4,BLUE,BLUE,4
+358,STR__CREDITS__MANAGER_PRODUCT_DEVELOPMENT,28,"Manager, Product Development",Manajer Pengembangan Produk,27
+359,STR__GAME_OPTIONS__HAND2HAND,13,MARTIAL SKILL,BELA DIRI,9
+360,STR__GAME_OPTIONS__DEFENCE,7,DEFENSE,DEFENSE,7
+361,STR__DEFAULT_GAME_1,8,PLAYER A,PEMAIN A,8
+362,STR__MEMORY_CARD__AUTOSAVE_WARNING_TITLE,17,Auto Save Warning,Peringatan Save,15
+363,STR__DEFAULT_GAME_2,8,PLAYER B,PEMAIN B,8
+364,STR__PAUSE_BUTTONS__CONTINUE,8,Continue,Lanjut,6
+365,STR__DEFAULT_GAME_3,8,PLAYER C,PEMAIN C,8
+366,STR__MEMORY_CARD__LOAD,20,LOAD SAVED GAME DATA,MUAT DATA SAVE GAME,19
+367,STR__DEFAULT_GAME_4,8,PLAYER D,PEMAIN D,8
+368,STR__FRONT_END__PRESS_START,11,PRESS START,TEKAN START,11
+369,STR__CREDITS__GARY_LIDDON,11,Gary Liddon,Gary Liddon,11
+370,STR__RED_RANGER,10,RED RANGER,RED RANGER,10
+371,STR___SAVENAME_TRAINING__2,16,Training Level 2,Level Latihan 2,15
+372,STR___SAVENAME_TRAINING__3,16,Training Level 3,Level Latihan 3,15
+373,STR__MEMORY_CARD__SAVEGAMESDIFFER,114,File already exists on the\nMEMORY CARD in MEMORY CARD slot 1\nAre you sure you want to overwrite the previous file?,File udah ada di\nMEMORY CARD slot MEMORY CARD 1\nYakin mau timpa file lama?,74
+374,STR___SAVENAME_TRAINING__4,16,Training Level 4,Level Latihan 4,15
+375,STR___SAVENAME_TRAINING__5,16,Training Level 5,Level Latihan 5,15
+376,STR___SAVENAME_TRAINING__6,16,Training Level 6,Level Latihan 6,15
+377,STR___SAVENAME_TRAINING__7,16,Training Level 7,Level Latihan 7,15
+378,STR__CREDITS__TIFFANY_TERNAN,14,Tiffany Ternan,Tiffany Ternan,14
+379,STR__MEMORY_CARD__LOADINGQUERY,60,Previous savegame data found.\nAre you sure you want to load?,Data save lama ketemu.\nYakin mau memuat?,40
+380,STR__CREDITS__JEFFREY_LAPIN,13,Jeffrey Lapin,Jeffrey Lapin,13
+381,STR__CREDITS__CHIP_LYNN,9,Chip Lynn,Chip Lynn,9
+382,STR__CREDITS__LICENSING_AND_MERCHANDISING_DIRECTOR,36,Sr. V.P. Licensing and Merchandising,Sr. VP Lisensi & Merchandising,30
+383,STR__GAME_OPTIONS__RANGER_SETUP,13,RANGER SELECT,PILIH RANGER,12
+384,STR__CREDITS__HELLOS,17,Special Thanks to,Terima Kasih Utk,16
+385,STR__CREDITS__IAIN_HASKILL,12,Iain Haskill,Iain Haskill,12
+386,STR__GAME_OPTIONS__CONTROL_STYLE,20,SELECT CONTROL STYLE,PILIH GAYA KONTROL,18
+387,STR__CREDITS__SARAH_BURFOOT,13,Sarah Burfoot,Sarah Burfoot,13
+388,STR__GAME_OPTIONS__MUSIC_VOLUME,12,Music Volume,Volume Musik,12
+389,STR__MEMORY_CARD__SAVEGAMESCORRUPT,67,Previous save game appears to be corrupt. Do you wish to overwrite?,Data save lama kayaknya rusak. Mau ditimpa?,43
+390,STR__PASSWORD_DESCRIPTION__QUANTRANGER,14,Quantum Ranger,Quantum Ranger,14
+391,STR__PAUSE_MENU_OPTION__CONTROLS,8,Controls,Kontrol,7
+392,STR__MEMORY_CARD__LOADINGPLEASEWAIT,63,Loading...\n\nDo not remove the MEMORY CARD in MEMORY CARD slot 1,Memuat...\n\nJangan cabut MEMORY CARD di slot MEMORY CARD 1,57
+393,STR__CREDITS__STUART_THOMPSON,15,Stuart Thompson,Stuart Thompson,15
+394,STR__BLANK,1, , ,1
+395,STR__MEMORY_CARD__LOADOK,14,Load complete!,Muat selesai!,13
+396,STR__PINK_RANGER,11,PINK RANGER,PINK RANGER,11
+397,STR__PASSWORD_DESCRIPTION__INFLIVES,14,Infinite Lives,Nyawa Infinite,14
+398,STR__CREDITS__BARRY_MARTIN,12,Barry Martin,Barry Martin,12
+399,STR__CREDITS__VO_TALENT,9,VO Talent,VO Talent,9
+400,STR__CREDITS__CHARACTER_ART_DIRECTOR,22,Character Art Director,Direktur Seni Karakter,22
+401,STR__TWO_PLAYER_MENU_OPTION__CHARACTER_SELECT,16,CHARACTER SELECT,CHARACTER SELECT,16
+402,STR__GAME_OPTIONS__PAD_CONFIG_1,19,Controller Config 1,Konfig Kontroler 1,18
+403,STR__GAME_OPTIONS__PAD_CONFIG_2,19,Controller Config 2,Konfig Kontroler 2,18
+404,STR__GAME_OPTIONS__PAD_CONFIG_3,19,Controller Config 3,Konfig Kontroler 3,18
+405,STR__GAME_OPTIONS__PAD_CONFIG_4,19,Controller Config 4,Konfig Kontroler 4,18
+406,STR__GAME_OPTIONS__PAD_CONFIG_5,19,Controller Config 5,Konfig Kontroler 5,18
+407,STR__PAUSE_MENU_OPTION__QUIT_LEVEL,10,Quit Level,Keluar Lvl,10
+408,STR__CREDITS__ASSISTANT_PRODUCER,18,Assistant Producer,Asisten Produser,16
+409,STR__GAME_OPTIONS__SFX_VOLUME,10,SFX Volume,Volume SFX,10
+410,STR__GAME_OPTIONS__SOUND,5,SOUND,SUARA,5
+411,STR__HEALTHBAR__FAILURE %d%02d,56,You need to be %d:%02d faster to win a health bar bonus.,Kurang %d:%02d lagi biar dapat bonus health bar.,48
+412,STR__PAUSE_MENU_TITLE__END_OF_LEVEL,12,END OF LEVEL,AKHIR LEVEL,11
+413,STR__CREDITS__QUALITY_ASSURANCE_MANAGER,10,QA Manager,Manajer QA,10
+414,STR___SAVENAME_LEVEL__1,12,Silver Hills,Silver Hills,12
+415,STR___SAVENAME_LEVEL__2,7,Hostage,Sandera,7
+416,STR___SAVENAME_LEVEL__3,9,High Seas,High Seas,9
+417,STR___SAVENAME_LEVEL__4,15,Midnight Castle,Kastil Malam,12
+418,STR___SAVENAME_LEVEL__5,12,Dawn of Time,Fajar Waktu,11
+419,STR___SAVENAME_LEVEL__6,12,The Coliseum,Koloseum,8
+420,STR__GAME_OPTIONS__ATTACK,12,ATTACK POWER,POWER SERANG,12
+421,STR___SAVENAME_LEVEL__7,14,Final Mutation,Mutasi Akhir,12
+422,STR__GAME_OPTIONS__ELECTRICTHUMP,14,Electric Thump,Electric Thump,14
+423,STR__MEMORY_CARD__FORMATTINGINTERRUPTED,29,Format operation interrupted!,Format terhenti!,16
+424,STR__HEALTHBAR__SUCCESS,42,Congratulations! Health bar bonus awarded!,Selamat! Bonus health bar didapat!,34
+425,STR__LEVEL__RED_MEGAZORD,13,Zord Mode Red,Zord Merah,10
+426,STR__GAME_OPTIONS__VIBRATION_OFF,13,Vibration Off,Getar Mati,10
+427,STR__PAUSE_BONUSES__RESULTS,7,RESULTS,HASIL,5
+428,STR__MNAME__B01,9,Barbatron,Barbatron,9
+429,STR__GAME_OPTIONS_MENU__TWO_PLAYERS,15,TWO PLAYER GAME,MAIN BERDUA,11
+430,STR__MNAME__B02,9,Stormwing,Stormwing,9
+431,STR__MNAME__B03,8,Pincator,Pincator,8
+432,STR__MNAME__B04,5,Gluto,Gluto,5
+433,STR__MNAME__B05,6,Nadira,Nadira,6
+434,STR__MNAME__B06,4,Frax,Frax,4
+435,STR__MNAME__B07,6,Ransik,Ransik,6
+436,STR__PAUSE_MENU_OPTION__OBJECTIVES,10,Objectives,Tujuan,6
+437,STR__CREDITS__CAROLINA_BEROZA,15,Carolina Beroza,Carolina Beroza,15
+438,STR__GAME_OPTIONS__CONTROL_CONFIG_B,24,CONTROL CONFIGURATION...,CONTROL CONFIGURATION...,24
+439,STR__VOSCRIPT_0001,138,"Rangers, the time villains have traveled back here to the 21st Century. You must defeat and capture them before they damage the time line.","Para Ranger, penjahat waktu kabur ke abad ke-21. Kalahkan dan tangkap mereka sebelum garis waktu rusak.",103
+440,STR__VOSCRIPT_0002,275,"Make your way up the cliffs to the town of Silver Hills. Frax's Cyclobots are causing havoc there. Apprehend all of the criminals you encounter. Should you accomplish your mission in the given time, you will receive a powerful bonus. Keep your eyes open for an artifact, too!",Naiklah tebing menuju kota Silver Hills. Cyclobot Frax bikin kekacauan di sana. Tangkap semua penjahat yg kamu temui. Selesaikan misi tepat waktu buat dapat bonus dahsyat. Awasi artefak juga!,191
+441,STR__VOSCRIPT_0003,46,These bonuses will stop the countdown briefly.,Bonus ini hentikan hitungan mundur sejenak.,43
+442,STR__VOSCRIPT_0004,66,Well done! You'll find super time bonuses like this on each level!,Bagus! Bonus waktu super kayak gini ada di tiap level!,54
+443,STR__VOSCRIPT_0005,21,Extra life - awesome!,"Nyawa nambah, mantap!",21
+444,STR__VOSCRIPT_0006,89,Great! Now you'll be invulnerable to attacks for a limited time. Take out those bad guys!,Mantap! Kamu kebal serangan sementara. Hajar para penjahat itu!,63
+445,STR__VOSCRIPT_0007,122,Your life-force will be restored when you pick up these bonuses. Collect them when your life-force energy needs boosting. ,Life-force kamu pulih kalau ambil bonus ini. Ambil pas energinya mulai menipis.,79
+446,STR__VOSCRIPT_0008,105,Excellent! These power-ups allow you to move much faster for a limited time. Be careful how you use them.,Keren! Power-up ini bikin kamu gerak jauh lebih cepat sementara. Pakai dengan bijak.,84
+447,STR__PAUSE_MENU_TITLE__END_OF_ARENA,12,END OF ARENA,AKHIR ARENA,11
+448,STR__PAUSE_BONUSES__FRAG_COUNT %d,12,%d victories,%d menang,9
+449,STR__VOSCRIPT_0009,18,"Well done, Ranger.","Bagus, Ranger.",14
+450,STR__GREEN_RANGER,12,GREEN RANGER,GREEN RANGER,12
+451,STR__LEVEL_INTRO__ENTERING_LEVEL %d,8,LEVEL %d,LEVEL %d,8
+452,STR__LEVEL__SHADOW_MEGAZORD,11,Shadow Zord,Shadow Zord,11
+453,STR__CREDITS__ARTISTS,7,Artists,Artis,5
+454,STR__GAME_OPTIONS__TORNADO,12,Tornado Kick,Tornado Kick,12
+455,STR__VOSCRIPT_0010,73,You have discovered an artifact. There is one hidden in each time period.,Kamu nemu artefak! Ada satu yg tersembunyi di tiap zaman.,57
+456,STR__CREDITS__STEVE_CROCKER,13,Steve Crocker,Steve Crocker,13
+457,STR__VOSCRIPT_0011,91,"Incredible work, Ranger - you now have all seven time artifacts! You will be well rewarded.","Hebat, Ranger - kamu udah kumpulin ketujuh artefak waktu! Hadiahnya menanti.",76
+458,STR__VOSCRIPT_0012,107,"Watch out, Ranger! There are boulders falling down those cliffs. If you're not careful, you'll be squashed!","Awas, Ranger! Ada batu menggelinding dari tebing. Kalau nggak hati2, kamu bisa gepeng!",86
+459,STR__VOSCRIPT_0013,80,This will be a good place to set up home in the 21st Century! Let's look inside.,Ini tempat pas buat bikin markas di abad 21! Yuk lihat ke dalam.,64
+460,STR__GAME_OPTIONS_MENU__START_GAME,10,Start Game,Mulai Game,10
+461,STR__VOSCRIPT_0014,135,"Fast work, Ranger! This life-force bonus has extended your life-force bar! You'll now stand a better chance of overcoming your enemies.","Cepat, Ranger! Bonus ini memperpanjang life-force bar-mu! Peluang menang lawan musuh jadi lebih besar.",102
+462,STR__VOSCRIPT_0015,96,"Amazing work, Ranger! Your life-force bar is at maximum. You are now the ultimate force in time!","Luar biasa, Ranger! Life-force bar-mu penuh. Sekarang kamu kekuatan terkuat di waktu!",85
+463,STR__VOSCRIPT_0016,47,"Look out, Ranger! The time villain is mutating!","Awas, Ranger! Penjahat waktunya bermutasi!",42
+464,STR__GAME_OPTIONS__ZORDSPECIALONE,16,Special Move One,Jurus Spesial 1,15
+465,STR__GAME_OPTIONS__CONTROL_CONFIG_A_LC,10,Controller,Kontroler,9
+466,STR__MEMORY_CARD__SAVEERROR,72,Save error!\n\n Data may be corrupted on\nMEMORY CARD in MEMORY CARD slot 1,Gagal simpan!\n\n Data mungkin rusak di\nMEMORY CARD slot MEMORY CARD 1,68
+467,STR__GAME_OPTIONS__VIBRATION_ON,12,Vibration On,Getar Nyala,11
+468,STR__CREDITS__PRODUCER,8,Producer,Produser,8
+469,STR__NOW_LOADING,14,NOW LOADING...,MEMUAT...,9
+470,STR__CREDITS__JEREMY_BARNES,15,Jeremy S Barnes,Jeremy S Barnes,15
+471,STR__CREDITS__TONY_REED,9,Tony Reed,Tony Reed,9
+472,STR__CREDITS__KEVIN_HOOPER,12,Kevin Hooper,Kevin Hooper,12
+473,STR__CREDITS__LEAD_ARTIST,12,Lead Artists,Kepala Artis,12
+474,STR__PASSWORD_DESCRIPTION__RPE,12,Infinite RPE,Infinite RPE,12
+475,STR__VOSCRIPT_0103,18,"Well done, Ranger.","Bagus, Ranger.",14
+476,STR__CREDITS__SABAN_CREDITS,13,Saban Credits,Saban Credits,13
+477,STR__CREDITS__BRIAN_FARRELL,13,Brian Farrell,Brian Farrell,13
+478,STR__MEMORY_CARD__DOYOUWANTTOFORMATCARD,74,MEMORY CARD in MEMORY CARD slot 1 is not formatted.\nDo you wish to format?,MEMORY CARD di slot MEMORY CARD 1 belum diformat.\nMau diformat?,63
+479,STR__VOSCRIPT_0106,36,"Look out, Ranger! Gluto is mutating!","Awas, Ranger! Gluto bermutasi!",30
+480,STR__CREDITS__LEE_PIPER,9,Lee Piper,Lee Piper,9
+481,STR__PASSWORD_DESCRIPTION__GALLERY,18,All galleries open,Semua galeri buka,17
+482,STR__MEMORY_CARD__NOSPACEONCARD,96,Insufficient free blocks available on MEMORY CARD in MEMORY CARD slot 1. One free block required,Blok kosong di MEMORY CARD slot MEMORY CARD 1 nggak cukup. Butuh satu blok kosong,81
+483,STR__CREDITS__LESLIE_BROWN,12,Leslie Brown,Leslie Brown,12
+484,STR__GREEN,5,GREEN,GREEN,5
+485,STR__CREDITS__ERIN_CAHILL_PINK_RANGER,24,Erin Chill - Pink Ranger,Erin Chill - Pink Ranger,24
+486,STR__PAUSE_MENU_OPTION__SAVE,9,Save Game,Simpan,6
+487,STR__YELLOW_RANGER,13,YELLOW RANGER,YELLOW RANGER,13
+488,STR___SAVENAME_EMPTY,15,Empty Save Slot,Slot Kosong,11
+489,STR__VOSCRIPT_0115,173,Frax has escaped to this time period and has created a powerful army of Cyclobot Centurions. You will need to use all of your strength and cunning to find and apprehend him.,Frax kabur ke zaman ini dan bikin pasukan Cyclobot Centurion yg kuat. Pakai semua tenaga dan akalmu buat nemuin dan menangkapnya.,129
+490,STR__CREDITS__MICHAEL_COPON__BLUE_RANGER,27,Michael Copon - Blue Ranger,Michael Copon - Blue Ranger,27
+491,STR__VOSCRIPT_0117,82,Well done! You'll need five more pieces of the mosaic to open the door completely.,Bagus! Butuh 5 keping mosaik lagi biar pintunya terbuka penuh.,62
+492,STR__VOSCRIPT_0118,44,"Well done, Ranger - but you still need more.","Bagus, Ranger - tapi masih kurang.",34
+493,STR__VOSCRIPT_0119,102,Excellent - you've found all six pieces of the mosaic. Now hurry into the Coliseum and apprehend Frax.,Mantap - keenam keping mosaik udah ketemu. Cepat masuk Koloseum dan tangkap Frax.,81
+494,STR__PAUSE_MENU_TITLE__CONTROLS,8,CONTROLS,KONTROL,7
+495,STR__QUANTUM_RANGER,14,QUANTUM RANGER,QUANTUM RANGER,14
+496,STR__CREDITS__HOWARD_LIEBESKIND,17,Howard Liebeskind,Howard Liebeskind,17
+497,STR__CREDITS__DANA_NEWBOLD,12,Dana Newbold,Dana Newbold,12
+498,STR__GAME_OPTIONS_MENU__CHARACTERS_UNLOCKED,24,CHARACTERS UNLOCKED UPTO,KARAKTER TERBUKA SAMPAI,23
+499,STR__CREDITS__LEAD_TESTERS,12,Lead Testers,Tester Utama,12
+500,STR__CREDITS__DAVID_PINKNEY,13,David Pinkney,David Pinkney,13
+501,STR__NAME__CIRCUIT,7,Circuit,Circuit,7
+502,STR__MEMORY_CARD__UNFORMATTEDCARD,50,MEMORY CARD in MEMORY CARD slot 1 is not formatted,MEMORY CARD di slot MEMORY CARD 1 belum diformat,48
+503,STR__MEMORY_CARD__FORMATTINGPLEASEWAIT,66,Formatting...\n\nDo not remove the MEMORY CARD in MEMORY CARD slot 1,Memformat...\n\nJangan cabut MEMORY CARD di slot MEMORY CARD 1,60
+504,STR__CREDITS__PROGRAMMERS,11,Programmers,Programmer,10
+505,STR__NO,2,No,No,2
+506,STR__VOSCRIPT_0040,123,- and have set up a force field to foil any rescue attempts. You must rescue him and apprehend any criminals you encounter.,- dan pasang force field biar nggak ada yg bisa nolong. Selamatkan dia dan tangkap semua penjahat yg kamu temui.,112
+507,STR__VOSCRIPT_0041,48,The criminals have imprisoned the town Sheriff -,Penjahat nahan Sheriff kota -,29
+508,STR__VOSCRIPT_0042,101,"Excellent, you have found a Disruptor! Collect four more to shut the force field down. Hurry, Ranger!","Mantap, kamu nemu Disruptor! Cari empat lagi buat matiin force field. Cepat, Ranger!",84
+509,STR__VOSCRIPT_0123,35,"Look out, Ranger! Frax is mutating!","Awas, Ranger! Frax bermutasi!",29
+510,STR__VOSCRIPT_0043,18,"Good move, Ranger!",Gerakan bagus!,14
+511,STR__VOSCRIPT_0045,107,Awesome! The force field has been shut down. You can now enter the mine. You must find the Sheriff - hurry!,Keren! Force field udah mati. Sekarang bisa masuk tambang. Cari Sheriff - cepat!,80
+512,STR__VOSCRIPT_0047,18,"Well done, Ranger.","Bagus, Ranger.",14
+513,STR__VOSCRIPT_0048,43,"Look out, Ranger! The criminal is mutating!","Awas, Ranger! Penjahatnya bermutasi!",36
+514,STR__DIGIT_TRAINING,118,Watch the hologram ranger to learn how to use the new move you have gained and also how to overcome certain obstacles.,Perhatikan Ranger hologram buat belajar jurus barumu dan cara lewatin rintangan.,80
+515,STR__CREDITS__JENS_AKE_NILSSON,16,Jens Ake Nilsson,Jens Ake Nilsson,16
+516,STR__CREDITS__CINDY_DAVIS,11,Cindy Davis,Cindy Davis,11
+517,STR__ON,2,ON,ON,2
+518,STR__INGAME__CREDITS %d,10,CREDITS %d,CREDITS %d,10
+519,STR__VOSCRIPT_0133,175,"Oh no! Nadira and Frax were being escorted to the prison, but an army of super powerful Cyclobots ambushed the convoy and released the evil criminals. Watch your back, Ranger!","Gawat! Nadira dan Frax lagi dikawal ke penjara, tapi pasukan Cyclobot super kuat nyerang konvoi dan bebasin mereka. Awas di belakangmu, Ranger!",143
+520,STR__TRAINING_MENU_OPTION__SELECT_TRAINING,15,Select Training,Pilih Latihan,13
+521,STR__CREDITS__ASSOCIATE_PRODUCT_MANAGER,25,Associate Product Manager,Asisten Manajer Produk,22
+522,STR__VOSCRIPT_0135,83,Well done. There's only Frax and his Cyclobots standing between you and Ransik now.,Bagus. Tinggal Frax dan Cyclobotnya yg menghalangi kamu dari Ransik.,68
+523,STR__VOSCRIPT_0136,148,"Good job, Ranger. But there's no time to rest. You must face your final challenge and bring Ransik to justice. Only then will the time line be safe.","Kerja bagus, Ranger. Tapi nggak ada waktu istirahat. Hadapi tantangan terakhir dan seret Ransik ke pengadilan. Baru waktu aman.",127
+524,STR__VOSCRIPT_0137,123,Ransik is revitalizing his DNA at the DNA dispensers. You need to find a way to destroy them. Only then can he be defeated.,Ransik memulihkan DNA-nya di dispenser DNA. Cari cara buat menghancurkannya. Baru dia bisa dikalahkan.,102
+525,STR__PAUSE_BUTTONS__OK,2,OK,OK,2
+526,STR__VOSCRIPT_0138,58,You'll need to find a switch - there must be one close by.,Cari saklar - pasti ada di dekat sini.,38
+527,STR__VOSCRIPT_0057,227,"The criminals have hijacked a galleon ship in this time period and are creating mayhem on the high seas. The villains here are merciless and you will need to use all of your training to bring them to justice. Good luck, Ranger!","Para penjahat membajak kapal galleon di zaman ini dan bikin kekacauan di laut. Mereka kejam, jadi pakai semua latihanmu buat menangkap mereka. Semangat, Ranger!",160
+528,STR__CREDITS__FIONA_FLETCHER,14,Fiona Fletcher,Fiona Fletcher,14
+529,STR__VOSCRIPT_0139,128,"Great job, Ranger! You've shut off the cog machinery, but watch out for those pistons. You'll have to time your jumps perfectly.","Kerja bagus, Ranger! Mesin roda gigi udah mati, tapi awas piston-nya. Waktu lompatnya harus pas.",96
+530,STR__ERASE_QUESTION,13,REALLY ERASE?,YAKIN HAPUS?,12
+531,STR__PAUSE_MENU_TITLE__TRAININGROOM,13,TRAINING ROOM,RUANG LATIHAN,13
+532,STR__CREDITS__RYAN_CAMU,9,Ryan Camu,Ryan Camu,9
+533,STR__CREDITS__STEVE_SAMPSON,13,Steve Sampson,Steve Sampson,13
+534,STR__TWO_PLAYER_MENU_OPTION__START_GAME,10,START GAME,MULAI GAME,10
+535,STR__VOSCRIPT_0140,67,Ransik is mutating! Get ready for the toughest battle of your life!,Ransik bermutasi! Siap-siap pertarungan terberat dalam hidupmu!,63
+536,STR__GAME_OPTIONS_MENU__TWO_PLAYERS_LC,15,Two Player Game,Main Berdua,11
+537,STR__VOSCRIPT_0222,69,Thanks for rescuing me! Some bizarre looking monster went that way...,Makasih udah nolong! Ada monster aneh lari ke arah sana...,58
+538,STR__GAME_OPTIONS__JUMP,4,Jump,Jump,4
+539,STR__VOSCRIPT_0063,43,"Look out, Ranger! The criminal is mutating!","Awas, Ranger! Penjahatnya bermutasi!",36
+540,STR__PASSWORD_DESCRIPTION__LEVELSKIP,10,Level Skip,Level Skip,10
+541,STR__PASSWORD_DESCRIPTION__BLINDENEMIES,13,Blind Enemies,Musuh Buta,10
+542,STR__CREDITS__CLIMAX_GROUP_CREDITS,20,Climax Group Credits,Climax Group Credits,20
+543,STR__GAME_OPTIONS__KICK,4,Kick,Kick,4
+544,STR__CREDITS__DAVID_PIMM,10,David Pimm,David Pimm,10
+545,STR__HIGHSCORE_1 %d%s%d%02d,18,%d -  %s (%d:%02d),%d -  %s (%d:%02d),18
+546,STR__MEMORY_CARD__AUTOSAVE_WARNING_A,110,No MEMORY CARD detected in MEMORY CARD slot 1. You will be unable to save your progress without a MEMORY CARD!,MEMORY CARD nggak terdeteksi di slot MEMORY CARD 1. Progresmu nggak bisa disimpan tanpa MEMORY CARD!,100
+547,STR__HIGHSCORE_2 %d%02d%s,36,Time for level - (%d:%02d) %s Ranger,Waktu level - (%d:%02d) %s Ranger,33
+548,STR__MEMORY_CARD__AUTOSAVE_WARNING_B,123,Insuffient free blocks on MEMORY CARD in MEMORY CARD slot 1. You will be unable to save your progress without 1 free block!,Blok kosong di MEMORY CARD slot MEMORY CARD 1 kurang. Progresmu nggak bisa disimpan tanpa 1 blok kosong!,104
+549,STR__HIGHSCORE_3,30,Time for level - None Recorded,Waktu level - Belum ada,23
+550,STR__HIGHSCORE_4 %d%02d%s,37,Time for level - (-%d:%02d) %s Ranger,Waktu level - (-%d:%02d) %s Ranger,34
+551,STR__YES,3,Yes,Ya,2
+552,STR__CREDITS__DONNY_SOEDER,12,Donny Soeder,Donny Soeder,12
+553,STR__CREDITS__HIROMI_YUASA,12,Hiromi Yuasa,Hiromi Yuasa,12
+554,STR__CREDITS__RICHARD_BRAZIER,15,Richard Brazier,Richard Brazier,15
+555,STR__GAME_OPTIONS__VIBRATION_OFF_1,15,Vibration 1 Off,Getar 1 Mati,12
+556,STR__PAUSE_BUTTONS__BACK,4,Back,Back,4
+557,STR__GAME_OPTIONS__VIBRATION_OFF_2,15,Vibration 2 Off,Getar 2 Mati,12
+558,STR__VOSCRIPT_0230,64,Be careful out there - he's a mean one for sure. I'm outta here!,Hati2 di luar sana - dia jahat banget. Gue cabut!,49
+559,STR__CREDITS__EXECUTIVE_PRODUCER,18,Executive Producer,Produser Eksekutif,18
+560,STR__VOSCRIPT_0072,307,"Make your way to the volcano, Ranger - Nadira is planning on wiping out the future. Frax has created an army of Cyclobot Cavemen to prevent you from reaching her. There are many secret areas in this time period, concealing powerful bonuses. Watch out for the dinosaurs! Some are friendly and others are not.","Menujulah ke gunung berapi, Ranger - Nadira mau menghancurkan masa depan. Frax bikin pasukan Cyclobot Caveman buat ngehalangin kamu. Ada banyak area rahasia di zaman ini yg nyimpen bonus kuat. Awas dinosaurus! Ada yg ramah, ada yg nggak.",237
+561,STR__VOSCRIPT_0073,44,"Excellent, Ranger - you've found a gate key!","Mantap, Ranger - kunci gerbang ketemu!",38
+562,STR__VOSCRIPT_0074,84,"Looks like a boat dock, Ranger. You'll need to find the switch to release the boats.","Kayaknya dermaga, Ranger. Cari saklar buat ngelepas perahunya.",62
+563,STR__MEMORY_CARD__NOSAVEGAMES,70,No previous savegame data present on MEMORY CARD in MEMORY CARD slot 1,Nggak ada data save di MEMORY CARD slot MEMORY CARD 1,53
+564,STR__GAME_OPTIONS__CONTROL_CONFIG_C_LC,23,Control Configuration 1,Konfigurasi Kontrol 1,21
+565,STR__GAME_OPTIONS__CLEAR,5,CLEAR,HAPUS,5
+566,STR__PAUSE_BUTTONS__SELECT,6,Select,Pilih,5
+567,STR__CREDITS__ANIMATION,9,Animation,Animasi,7
+568,STR__CREDITS__MIKE_SMITH,10,Mike Smith,Mike Smith,10
+569,STR__MEMORY_CARD__LOADERROR,11,Load Error!,Gagal Muat!,11
+570,STR__CREDITS__ALISON_LOCKE,12,Alison Locke,Alison Locke,12
+571,STR__VOSCRIPT_0080,37,"Look out, Ranger! Nadira is mutating!","Awas, Ranger! Nadira bermutasi!",31
+572,STR__VOSCRIPT_0161,59,"Take this, Ranger. Ha ha ha - you'll never arrest my Daddy!","Rasain, Ranger. Ha ha ha - Papa gue nggak bakal ditangkap!",58
+573,STR__VOSCRIPT_0162,107,"We meet again, Time Force. I knew my Daddy would never let me go to prison. This time I won't let him down.","Ketemu lagi, Time Force. Gue tau Papa nggak bakal biarin gue dipenjara. Kali ini gue nggak kecewain dia.",104
+574,STR__VOSCRIPT_0163,48,"Curses, you have found me! Now I'm really angry.","Sial, ketahuan! Sekarang gue beneran marah.",43
+575,STR__GAME_OPTIONS__STUNBLAST,12,Stun Grenade,Stun Grenade,12
+576,STR__VOSCRIPT_0164,63,What... you again! Don't come near me Ranger - I'm warning you.,"Apa... lo lagi! Jangan deketin gue, Ranger - gue peringatin.",60
+577,STR__VOSCRIPT_0165,60,"My army of Cyclobots will see to you. Attack, my children...","Pasukan Cyclobotku bakal ngurus lo. Serang, anak-anakku...",58
+578,STR__VOSCRIPT_0166,72,You'll destroy no more of my Cyclobots. This time I will finish you off.,Nggak bakal lagi Cyclobotku lo hancurin. Kali ini lo tamat.,59
+579,STR__VOSCRIPT_0167,87,So you've made it this far - ha ha ha - well you'll make it no further - ha ha ha ha...,Sampai sini lo bisa - ha ha ha - tapi nggak bakal lebih jauh - ha ha ha ha...,77
+580,STR__VOSCRIPT_0168,57,My nail! You broke my nail! You will pay for that Ranger!,"Kuku gue! Kuku gue patah! Rasain pembalasan gue, Ranger!",56
+581,STR__VOSCRIPT_0169,53,Not again - wait 'til my Daddy hears of this... urgh.,Nggak lagi - tunggu Papa tau ini... urgh.,41
+582,STR__CREDITS__SHARON_MARKOWITZBENNETT,24,Sharon Markowitz-Bennett,Sharon Markowitz-Bennett,24
+583,STR__CREDITS__JACKIE_MARCHAND,15,Jackie Marchand,Jackie Marchand,15
+584,STR__CREDITS_DAVID_JOHNSON,13,David Johnson,David Johnson,13
+585,STR__CREDITS__JAMES_NEILSON,13,James Neilson,James Neilson,13
+586,STR__CREDITS__GEOFF_BLUNT,11,Geoff Blunt,Geoff Blunt,11
+587,STR__CREDITS__PRESIDENT,9,President,Presiden,8
+588,STR__CREDITS__JASON_FAUNT__RED_RANGER,24,Jason Faunt - Red Ranger,Jason Faunt - Red Ranger,24
+589,STR__TWO_PLAYER_MENU_OPTION__OPTIONS,12,GAME OPTIONS,OPSI GAME,9
+590,STR__CREDITS__GERMAINE_GIOIA,14,Germaine Gioia,Germaine Gioia,14
+591,STR__CREDITS__BECKY_WHITEGROVE,15,Becky Whitgrove,Becky Whitgrove,15
+592,STR__GAME_OPTIONS__RANGER_SETUP_LC,13,Ranger Select,Pilih Ranger,12
+593,STR__VOSCRIPT_0170,16,I want my mommy!,Gue mau mama!,13
+594,STR__MEMORY_CARD__CHECKMEMORYCARD,71,Checking...\n\nPlease do not remove the MEMORY CARD in MEMORY CARD slot 1,Mengecek...\n\nJangan cabut MEMORY CARD di slot MEMORY CARD 1,59
+595,STR__VOSCRIPT_0171,32,I've had it with you Time Force!,"Gue muak sama lo, Time Force!",29
+596,STR__VOSCRIPT_0172,37,I will serve my master until the end.,Gue layani tuan gue sampai akhir.,33
+597,STR__VOSCRIPT_0173,61,"You may have defeated me, but my Cyclobots will live forever.","Lo boleh kalahin gue, tapi Cyclobot gue bakal abadi.",52
+598,STR__VOSCRIPT_0174,70,It will take more than that to put me down. Prepare to meet your doom.,Segitu aja belum cukup buat jatuhin gue. Siap-siap ajal lo.,59
+599,STR__VOSCRIPT_0094,206,"Gluto has taken refuge in the main building. To gain access and apprehend him you'll need to use the crossbows and catapults. The criminals in this time period are very tough and evasive. Good luck, Ranger!","Gluto ngumpet di bangunan utama. Pakai panah besar dan katapel buat masuk dan menangkapnya. Penjahat di zaman ini kuat dan licin. Semangat, Ranger!",147
+600,STR__VOSCRIPT_0095,76,"Very well done, Ranger. An open doorway leads to the second crossbow. Hurry!","Hebat banget, Ranger. Pintu terbuka menuju panah besar kedua. Cepat!",68
+601,STR__VOSCRIPT_0096,83,"One more to go, Ranger! You'll need to find a catapult to access the last crossbow.","Tinggal satu lagi, Ranger! Cari katapel buat sampai ke panah besar terakhir.",76
+602,STR__VOSCRIPT_0097,63,Awesome! The bridge has been lowered! Prepare to take on Gluto.,Keren! Jembatan turun! Siap-siap hadapi Gluto.,46
+603,STR__PASSWORD_VALUES__STAGE1_1,2,L1,L1,2
+604,STR__PASSWORD_VALUES__STAGE1_2,2,B1,B1,2
+605,STR__CREDITS__HILARY_GARDNER,14,Hilary Gardner,Hilary Gardner,14
+606,STR__MEMORY_CARD__SAVEOK,14,Save complete!,Save selesai!,13
+607,STR__CREDITS__LAURA_OROZCO,12,Laura Orozco,Laura Orozco,12
+608,STR__MEMORY_CARD__SAVE,9,SAVE GAME,SIMPAN,6
+609,STR__GAME_SELECTION__TITLE,14,GAME SELECTION,PILIH GAME,10
+610,STR__CREDITS__NICKLAS_URASKI,15,Nicklas Urasaki,Nicklas Urasaki,15
