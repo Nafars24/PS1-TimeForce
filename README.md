@@ -24,8 +24,7 @@ The patch rewrites the in-game text tables inside `BIGLUMP.BIN` in place. File s
 ## Screenshots
 
 
-| ![](docs/screenshots/03-briefing-id.png) | ![](docs/screenshots/01-menu-id.png) |
-| ![](docs/screenshots/04-memcard-id.png) | ![](docs/screenshots/02-tutorial-id.png) |
+| ![](docs/screenshots/01-id.png) | ![](docs/screenshots/02-id.png) |
 
 ## Status
 
